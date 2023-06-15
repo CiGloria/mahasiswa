@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  .container {
+    width: 250px;
+    padding-top: 20px;
+    background-color: rgb(216, 156, 1591);
+    text-align: center;
+    padding-bottom: 50px;
+    margin: auto;
+  }
